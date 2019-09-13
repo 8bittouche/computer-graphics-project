@@ -1,3 +1,3 @@
 # Project Playing Video<br/>
-[![Video Label](video_thumbnail.JPG)](https://youtu.be/srefF-LAV3c){: width="300px"}
+[![Video Label](video_thumbnail.JPG){: width="300px"}](https://youtu.be/srefF-LAV3c)
 

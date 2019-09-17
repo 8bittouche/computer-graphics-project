@@ -9,6 +9,6 @@
 OpenGL의 각 요소를 활용함과 동시에 마우스와 키보드를 활용하여 interactive한 프로그램을 작성한다.  
 <br/>
 
-# Project Playing Video<br/>
+# 프로젝트 구현 영상<br/>
 [![Video Label](video_thumbnail.JPG)](https://youtu.be/srefF-LAV3c)
 
